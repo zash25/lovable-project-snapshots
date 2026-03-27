@@ -4,6 +4,6 @@ Agent Nova 👋 Start a chat with Nova. Ask any question or schedule a free cons
 
 **URL:** https://tobiportfolio.lovable.app/
 
-**Last snapshot:** 2026-03-27T10:03:01.745Z
+**Last snapshot:** 2026-03-27T10:24:55.665Z
 
 ![Screenshot](screenshot.png)
